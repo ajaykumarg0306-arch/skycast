@@ -1,0 +1,6 @@
+{
+  "name": "SkyCast - Weather Intelligence & Forecasts",
+  "description": "Polished, real-time weather report web app with interactive hourly charts, 7-day forecast, dynamic atmospheric styling, and AI weather insights.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
